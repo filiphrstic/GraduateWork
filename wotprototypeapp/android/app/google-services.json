@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "843656235619",
+    "firebase_url": "https://fhrsticproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fhrsticproject",
+    "storage_bucket": "fhrsticproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843656235619:android:1b13d6ad1f4c0bec688656",
+        "android_client_info": {
+          "package_name": "com.example.diplomski_rad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843656235619-glfeuqv978uoj45n8a75m7v9qog7do8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JYO7OV7vVYP9DHW7nknyyXLF8e8oQN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843656235619-glfeuqv978uoj45n8a75m7v9qog7do8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843656235619:android:2aea19ded48e1a99688656",
+        "android_client_info": {
+          "package_name": "com.example.wotprototypeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843656235619-glfeuqv978uoj45n8a75m7v9qog7do8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JYO7OV7vVYP9DHW7nknyyXLF8e8oQN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843656235619-glfeuqv978uoj45n8a75m7v9qog7do8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
