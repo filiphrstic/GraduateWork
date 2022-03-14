@@ -1,7 +1,7 @@
 # GraduateWork
 Graduate work for Faculty of Organisation and Informatics (Diplomski rad)
 
-![Alt Text](https://media.giphy.com/media/WG0lkEcpjnuhwomz9D/giphy-downsized-large.gif)
+![Alt Text](media/testps.gif)
 
 ![Alt Text](https://media.giphy.com/media/DiciAFWpfbJmthLyxE/giphy-downsized-large.gif)
 
