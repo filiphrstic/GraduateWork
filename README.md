@@ -13,15 +13,15 @@ NodeMCU Lolin v3 with ESP-01 Wifi Module and ESP8266 SoC was used for IoT projec
 List of all IoT projects
 
 
-<img src="media/ws.png" width=200 align=left>
+<img src="media/ws.png" width=200 align=rigt>
 Weather station dashboard with temperature/humidity readings from DHT11 sensor (numerical) and rain readings from Rain sensor (non-numerical)
 
 
-<img src="media/plant_pet.png" width=400 align=left>
+<img src="media/plant_pet.png" width=400 align=center>
 Plant station and Pet feeder dashboards
 
 
-<img src="media/switch_rfid.png" width=400 align=left>
+<img src="media/switch_rfid.png" width=400 align=center>
 Relay switch and RFID counter dashboards
 
 
