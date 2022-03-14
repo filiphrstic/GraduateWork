@@ -1,13 +1,12 @@
 # GraduateWork
 Graduate work for Faculty of Organisation and Informatics (Diplomski rad)
 
-<img src="media/splash.png" width=300 align=right>
+<img src="media/splash.png" width=300 align=left>
+<img src="media/cd.png" width=300 align=right>
+<img src="media/ws.png" width=300 align=center>
+<img src="media/plant_pet.png" width=300 align=center>
+<img src="media/switch_rfid.png" width=300 align=center>
 
-![Alt Text](media/splash.png)
-![Alt Text](media/cd.png)
-![Alt Text](media/ws.png)
-![Alt Text](media/plant_pet.png)
-![Alt Text](media/switch_rfid.png)
 
 ![Alt Text](media/testws.gif)
 
