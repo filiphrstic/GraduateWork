@@ -9,21 +9,18 @@ Mobile application was created using Dart language and Flutter framework. Applic
 
 NodeMCU Lolin v3 with ESP-01 Wifi Module and ESP8266 SoC was used for IoT projects. Development boards were programmed with ArduinoIDE and each script can be found in "ArduinoIDE Scripts" folder. 
 
-<img src="media/cd.png" width=200 align=center>
-List of all IoT projects
+<img src="media/cd.png" width=200 align=center>List of all IoT projects
+</br>
 
+<img src="media/ws.png" width=200 align=center>Weather station dashboard with temperature/humidity readings from DHT11 sensor (numerical) and rain readings from Rain sensor (non-numerical)
+</br>
 
-<img src="media/ws.png" width=200 align=center>
-Weather station dashboard with temperature/humidity readings from DHT11 sensor (numerical) and rain readings from Rain sensor (non-numerical)
+<img src="media/plant_pet.png" width=400 align=center>Plant station and Pet feeder dashboards
+</br>
 
-
-<img src="media/plant_pet.png" width=400 align=center>
-Plant station and Pet feeder dashboards
-
-
-<img src="media/switch_rfid.png" width=400 align=center>
-Relay switch and RFID counter dashboards
-
+<img src="media/switch_rfid.png" width=400 align=center>Relay switch and RFID counter dashboards
+</br>
+<hr>
 
 ![Alt Text](media/testws.gif)
 Weather station with DHT11 and Rain sensor
