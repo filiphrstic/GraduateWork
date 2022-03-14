@@ -2,7 +2,7 @@
 Graduate work for Faculty of Organisation and Informatics (Diplomski rad)
 
 
-![Alt Text](media/splash.png)
+![Alt Text](media/splash.png =20x20)
 ![Alt Text](media/cd.png)
 ![Alt Text](media/ws.png)
 ![Alt Text](media/plant_pet.png)
